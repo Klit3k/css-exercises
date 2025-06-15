@@ -1,5 +1,5 @@
 .odd {
-    background-color: #e88896;
+    background-color: rgb(232, 136, 150);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -8,12 +8,12 @@
 }
 
 #even-two {
-    color: blue;
+    color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
 #even-four {
-    background-color: lightgreen;
+    background-color: rgb(144, 238, 144);
     font-size: 24px;
     font-weight: bold;
 }
